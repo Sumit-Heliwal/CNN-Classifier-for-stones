@@ -15,7 +15,7 @@ import pickle
 import cv2
 
 
-image = cv2.imread('examples/testing/eg (3).jpg')
+image = cv2.imread('testing/5/5m (1).jpg')
 output = imutils.resize(image, width=400)
 
 # pre-process the image for classification
